@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\seva2\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\seva2\\.nuget\\packages"
+    ]
+  }
+}

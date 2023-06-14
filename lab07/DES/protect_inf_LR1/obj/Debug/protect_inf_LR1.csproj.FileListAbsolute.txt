@@ -1,0 +1,59 @@
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\protect_inf_LR1\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe.config
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\protect_inf_LR1\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\protect_inf_LR1\protect_inf_LR1\bin\Debug\protect_inf_LR1.pdb
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\protect_inf_LR1\protect_inf_LR1\obj\Debug\protect_inf_LR1.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\protect_inf_LR1\protect_inf_LR1\obj\Debug\protect_inf_LR1.Form1.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\protect_inf_LR1\protect_inf_LR1\obj\Debug\protect_inf_LR1.Properties.Resources.resources
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\protect_inf_LR1\protect_inf_LR1\obj\Debug\protect_inf_LR1.csproj.GenerateResource.Cache
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\protect_inf_LR1\protect_inf_LR1\obj\Debug\protect_inf_LR1.exe
+C:\Users\Игорь\Documents\Visual Studio 2013\Projects\protect_inf_LR1\protect_inf_LR1\obj\Debug\protect_inf_LR1.pdb
+C:\Users\Игорь\Desktop\protect_inf_LR1\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe.config
+C:\Users\Игорь\Desktop\protect_inf_LR1\protect_inf_LR1\obj\Debug\protect_inf_LR1.exe
+C:\Users\Игорь\Desktop\protect_inf_LR1\protect_inf_LR1\obj\Debug\protect_inf_LR1.pdb
+C:\Users\Игорь\Desktop\protect_inf_LR1\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe
+C:\Users\Игорь\Desktop\protect_inf_LR1\protect_inf_LR1\bin\Debug\protect_inf_LR1.pdb
+C:\Users\Игорь\Desktop\protect_inf_LR1\protect_inf_LR1\obj\Debug\protect_inf_LR1.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\protect_inf_LR1\protect_inf_LR1\obj\Debug\protect_inf_LR1.Form1.resources
+C:\Users\Игорь\Desktop\protect_inf_LR1\protect_inf_LR1\obj\Debug\protect_inf_LR1.Properties.Resources.resources
+C:\Users\Игорь\Desktop\protect_inf_LR1\protect_inf_LR1\obj\Debug\protect_inf_LR1.csproj.GenerateResource.Cache
+C:\Users\Игорь\Desktop\DES\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe.config
+C:\Users\Игорь\Desktop\DES\protect_inf_LR1\obj\Debug\protect_inf_LR1.exe
+C:\Users\Игорь\Desktop\DES\protect_inf_LR1\obj\Debug\protect_inf_LR1.pdb
+C:\Users\Игорь\Desktop\DES\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe
+C:\Users\Игорь\Desktop\DES\protect_inf_LR1\bin\Debug\protect_inf_LR1.pdb
+C:\Users\Игорь\Desktop\DES\protect_inf_LR1\obj\Debug\protect_inf_LR1.csprojResolveAssemblyReference.cache
+C:\Users\Игорь\Desktop\DES\protect_inf_LR1\obj\Debug\protect_inf_LR1.Form1.resources
+C:\Users\Игорь\Desktop\DES\protect_inf_LR1\obj\Debug\protect_inf_LR1.Properties.Resources.resources
+C:\Users\Игорь\Desktop\DES\protect_inf_LR1\obj\Debug\protect_inf_LR1.csproj.GenerateResource.Cache
+C:\Users\dmitr\Documents\Labs\КМЗИ\Lab7\DES\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe.config
+C:\Users\dmitr\Documents\Labs\КМЗИ\Lab7\DES\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe
+C:\Users\dmitr\Documents\Labs\КМЗИ\Lab7\DES\protect_inf_LR1\bin\Debug\protect_inf_LR1.pdb
+C:\Users\dmitr\Documents\Labs\КМЗИ\Lab7\DES\protect_inf_LR1\obj\Debug\protect_inf_LR1.csprojAssemblyReference.cache
+C:\Users\dmitr\Documents\Labs\КМЗИ\Lab7\DES\protect_inf_LR1\obj\Debug\protect_inf_LR1.Form1.resources
+C:\Users\dmitr\Documents\Labs\КМЗИ\Lab7\DES\protect_inf_LR1\obj\Debug\protect_inf_LR1.Properties.Resources.resources
+C:\Users\dmitr\Documents\Labs\КМЗИ\Lab7\DES\protect_inf_LR1\obj\Debug\protect_inf_LR1.csproj.GenerateResource.cache
+C:\Users\dmitr\Documents\Labs\КМЗИ\Lab7\DES\protect_inf_LR1\obj\Debug\protect_inf_LR1.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\Documents\Labs\КМЗИ\Lab7\DES\protect_inf_LR1\obj\Debug\protect_inf_LR1.exe
+C:\Users\dmitr\Documents\Labs\КМЗИ\Lab7\DES\protect_inf_LR1\obj\Debug\protect_inf_LR1.pdb
+D:\Univer\3курс\1semRP\POIT-3-kurs-2-sem\КМЗИ\Lab7\DES\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe.config
+D:\Univer\3курс\1semRP\POIT-3-kurs-2-sem\КМЗИ\Lab7\DES\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe
+D:\Univer\3курс\1semRP\POIT-3-kurs-2-sem\КМЗИ\Lab7\DES\protect_inf_LR1\bin\Debug\protect_inf_LR1.pdb
+D:\Univer\3курс\1semRP\POIT-3-kurs-2-sem\КМЗИ\Lab7\DES\protect_inf_LR1\obj\Debug\protect_inf_LR1.csproj.AssemblyReference.cache
+D:\Univer\3курс\1semRP\POIT-3-kurs-2-sem\КМЗИ\Lab7\DES\protect_inf_LR1\obj\Debug\protect_inf_LR1.csproj.SuggestedBindingRedirects.cache
+D:\Univer\3курс\1semRP\POIT-3-kurs-2-sem\КМЗИ\Lab7\DES\protect_inf_LR1\obj\Debug\protect_inf_LR1.Form1.resources
+D:\Univer\3курс\1semRP\POIT-3-kurs-2-sem\КМЗИ\Lab7\DES\protect_inf_LR1\obj\Debug\protect_inf_LR1.Properties.Resources.resources
+D:\Univer\3курс\1semRP\POIT-3-kurs-2-sem\КМЗИ\Lab7\DES\protect_inf_LR1\obj\Debug\protect_inf_LR1.csproj.GenerateResource.cache
+D:\Univer\3курс\1semRP\POIT-3-kurs-2-sem\КМЗИ\Lab7\DES\protect_inf_LR1\obj\Debug\protect_inf_LR1.csproj.CoreCompileInputs.cache
+D:\Univer\3курс\1semRP\POIT-3-kurs-2-sem\КМЗИ\Lab7\DES\protect_inf_LR1\obj\Debug\protect_inf_LR1.exe
+D:\Univer\3курс\1semRP\POIT-3-kurs-2-sem\КМЗИ\Lab7\DES\protect_inf_LR1\obj\Debug\protect_inf_LR1.pdb
+D:\Univer\3курс\2сем\Криптография\Labs\lab07\DES\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe.config
+D:\Univer\3курс\2сем\Криптография\Labs\lab07\DES\protect_inf_LR1\bin\Debug\protect_inf_LR1.exe
+D:\Univer\3курс\2сем\Криптография\Labs\lab07\DES\protect_inf_LR1\bin\Debug\protect_inf_LR1.pdb
+D:\Univer\3курс\2сем\Криптография\Labs\lab07\DES\protect_inf_LR1\obj\Debug\protect_inf_LR1.csproj.AssemblyReference.cache
+D:\Univer\3курс\2сем\Криптография\Labs\lab07\DES\protect_inf_LR1\obj\Debug\protect_inf_LR1.csproj.SuggestedBindingRedirects.cache
+D:\Univer\3курс\2сем\Криптография\Labs\lab07\DES\protect_inf_LR1\obj\Debug\protect_inf_LR1.Form1.resources
+D:\Univer\3курс\2сем\Криптография\Labs\lab07\DES\protect_inf_LR1\obj\Debug\protect_inf_LR1.Properties.Resources.resources
+D:\Univer\3курс\2сем\Криптография\Labs\lab07\DES\protect_inf_LR1\obj\Debug\protect_inf_LR1.csproj.GenerateResource.cache
+D:\Univer\3курс\2сем\Криптография\Labs\lab07\DES\protect_inf_LR1\obj\Debug\protect_inf_LR1.csproj.CoreCompileInputs.cache
+D:\Univer\3курс\2сем\Криптография\Labs\lab07\DES\protect_inf_LR1\obj\Debug\protect_inf_LR1.exe
+D:\Univer\3курс\2сем\Криптография\Labs\lab07\DES\protect_inf_LR1\obj\Debug\protect_inf_LR1.pdb

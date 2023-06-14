@@ -1,0 +1,15 @@
+D:\Univer\3курс\2сем\Криптография\Labs\lab02\lab02\bin\Debug\net6.0\lab02.exe
+D:\Univer\3курс\2сем\Криптография\Labs\lab02\lab02\bin\Debug\net6.0\lab02.deps.json
+D:\Univer\3курс\2сем\Криптография\Labs\lab02\lab02\bin\Debug\net6.0\lab02.runtimeconfig.json
+D:\Univer\3курс\2сем\Криптография\Labs\lab02\lab02\bin\Debug\net6.0\lab02.dll
+D:\Univer\3курс\2сем\Криптография\Labs\lab02\lab02\bin\Debug\net6.0\lab02.pdb
+D:\Univer\3курс\2сем\Криптография\Labs\lab02\lab02\obj\Debug\net6.0\lab02.csproj.AssemblyReference.cache
+D:\Univer\3курс\2сем\Криптография\Labs\lab02\lab02\obj\Debug\net6.0\lab02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Univer\3курс\2сем\Криптография\Labs\lab02\lab02\obj\Debug\net6.0\lab02.AssemblyInfoInputs.cache
+D:\Univer\3курс\2сем\Криптография\Labs\lab02\lab02\obj\Debug\net6.0\lab02.AssemblyInfo.cs
+D:\Univer\3курс\2сем\Криптография\Labs\lab02\lab02\obj\Debug\net6.0\lab02.csproj.CoreCompileInputs.cache
+D:\Univer\3курс\2сем\Криптография\Labs\lab02\lab02\obj\Debug\net6.0\lab02.dll
+D:\Univer\3курс\2сем\Криптография\Labs\lab02\lab02\obj\Debug\net6.0\refint\lab02.dll
+D:\Univer\3курс\2сем\Криптография\Labs\lab02\lab02\obj\Debug\net6.0\lab02.pdb
+D:\Univer\3курс\2сем\Криптография\Labs\lab02\lab02\obj\Debug\net6.0\lab02.genruntimeconfig.cache
+D:\Univer\3курс\2сем\Криптография\Labs\lab02\lab02\obj\Debug\net6.0\ref\lab02.dll

@@ -1,0 +1,22 @@
+D:\3\КМЗИ\10 - ЭЦП\Sign\Shorn_sign\bin\Debug\Shorn_sign.exe.config
+D:\3\КМЗИ\10 - ЭЦП\Sign\Shorn_sign\bin\Debug\Shorn_sign.exe
+D:\3\КМЗИ\10 - ЭЦП\Sign\Shorn_sign\bin\Debug\Shorn_sign.pdb
+D:\3\КМЗИ\10 - ЭЦП\Sign\Shorn_sign\obj\Debug\Shorn_sign.csprojAssemblyReference.cache
+D:\3\КМЗИ\10 - ЭЦП\Sign\Shorn_sign\obj\Debug\Shorn_sign.csproj.CoreCompileInputs.cache
+D:\3\КМЗИ\10 - ЭЦП\Sign\Shorn_sign\obj\Debug\Shorn_sign.exe
+D:\3\КМЗИ\10 - ЭЦП\Sign\Shorn_sign\obj\Debug\Shorn_sign.pdb
+C:\Users\dmitr\Documents\Labs\КМЗИ\Lab12\Sign\Shorn_sign\bin\Debug\Shorn_sign.exe.config
+C:\Users\dmitr\Documents\Labs\КМЗИ\Lab12\Sign\Shorn_sign\bin\Debug\Shorn_sign.exe
+C:\Users\dmitr\Documents\Labs\КМЗИ\Lab12\Sign\Shorn_sign\bin\Debug\Shorn_sign.pdb
+C:\Users\dmitr\Documents\Labs\КМЗИ\Lab12\Sign\Shorn_sign\obj\Debug\Shorn_sign.csprojAssemblyReference.cache
+C:\Users\dmitr\Documents\Labs\КМЗИ\Lab12\Sign\Shorn_sign\obj\Debug\Shorn_sign.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\Documents\Labs\КМЗИ\Lab12\Sign\Shorn_sign\obj\Debug\Shorn_sign.exe
+C:\Users\dmitr\Documents\Labs\КМЗИ\Lab12\Sign\Shorn_sign\obj\Debug\Shorn_sign.pdb
+D:\Univer\3курс\1semRP\POIT-3-kurs-2-sem\КМЗИ\Lab12\Sign\Shorn_sign\bin\Debug\Shorn_sign.exe.config
+D:\Univer\3курс\1semRP\POIT-3-kurs-2-sem\КМЗИ\Lab12\Sign\Shorn_sign\bin\Debug\Shorn_sign.exe
+D:\Univer\3курс\1semRP\POIT-3-kurs-2-sem\КМЗИ\Lab12\Sign\Shorn_sign\bin\Debug\Shorn_sign.pdb
+D:\Univer\3курс\1semRP\POIT-3-kurs-2-sem\КМЗИ\Lab12\Sign\Shorn_sign\obj\Debug\Shorn_sign.csproj.AssemblyReference.cache
+D:\Univer\3курс\1semRP\POIT-3-kurs-2-sem\КМЗИ\Lab12\Sign\Shorn_sign\obj\Debug\Shorn_sign.csproj.SuggestedBindingRedirects.cache
+D:\Univer\3курс\1semRP\POIT-3-kurs-2-sem\КМЗИ\Lab12\Sign\Shorn_sign\obj\Debug\Shorn_sign.csproj.CoreCompileInputs.cache
+D:\Univer\3курс\1semRP\POIT-3-kurs-2-sem\КМЗИ\Lab12\Sign\Shorn_sign\obj\Debug\Shorn_sign.exe
+D:\Univer\3курс\1semRP\POIT-3-kurs-2-sem\КМЗИ\Lab12\Sign\Shorn_sign\obj\Debug\Shorn_sign.pdb
